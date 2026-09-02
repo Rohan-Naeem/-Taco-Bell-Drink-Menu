@@ -1,4 +1,4 @@
 User-agent: *
 
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://taco-bell-drink-menu.vercel.app/sitemap.xml
