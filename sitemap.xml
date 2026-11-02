@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
     <url>
         <loc>https://taco-bell-drink-menu.vercel.app/</loc>
         <lastmod>2026-11-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/hero-drinks.jpg</image:loc>
+            <image:title>Taco Bell fountain drinks</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/baja-blast.jpg</image:loc>
+            <image:title>Baja Blast drink</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/strawberry-freeze.jpg</image:loc>
+            <image:title>Wild Strawberry Freeze</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/blue-raspberry-freeze.jpg</image:loc>
+            <image:title>Blue Raspberry Freeze</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/strawberry-refresca.jpg</image:loc>
+            <image:title>Strawberry Passionfruit Agua Refresca</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/mango-peach-refresca.jpg</image:loc>
+            <image:title>Mango Peach Agua Refresca</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/pineapple-lime-refresca.jpg</image:loc>
+            <image:title>Pineapple Lime Energy Refresca</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/lemonade-drink.jpg</image:loc>
+            <image:title>Tropicana Original Lemonade</image:title>
+        </image:image>
     </url>
 
 </urlset>
