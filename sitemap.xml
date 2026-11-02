@@ -38,6 +38,22 @@
             <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/lemonade-drink.jpg</image:loc>
             <image:title>Tropicana Original Lemonade</image:title>
         </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/baja-zero-drink.jpg</image:loc>
+            <image:title>Baja Blast Zero Sugar</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/pepsi-drink.jpg</image:loc>
+            <image:title>Pepsi</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/diet-pepsi-drink.jpg</image:loc>
+            <image:title>Diet Pepsi</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/mtn-dew-drink.jpg</image:loc>
+            <image:title>MTN DEW</image:title>
+        </image:image>
     </url>
 
 </urlset>
