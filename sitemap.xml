@@ -54,6 +54,22 @@
             <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/mtn-dew-drink.jpg</image:loc>
             <image:title>MTN DEW</image:title>
         </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/dr-pepper-drink.jpg</image:loc>
+            <image:title>Dr Pepper</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/starry-drink.jpg</image:loc>
+            <image:title>Starry</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/hot-coffee-drink.jpg</image:loc>
+            <image:title>Premium Hot Coffee</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/iced-coffee-drink.jpg</image:loc>
+            <image:title>Regular Iced Coffee</image:title>
+        </image:image>
     </url>
 
 </urlset>
