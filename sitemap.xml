@@ -70,6 +70,14 @@
             <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/iced-coffee-drink.jpg</image:loc>
             <image:title>Regular Iced Coffee</image:title>
         </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/hot-cinnabon-coffee.jpg</image:loc>
+            <image:title>Hot Cinnabon Delights Coffee</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://taco-bell-drink-menu.vercel.app/assets/images/iced-cinnabon-coffee.jpg</image:loc>
+            <image:title>Iced Cinnabon Delights Coffee</image:title>
+        </image:image>
     </url>
 
 </urlset>
