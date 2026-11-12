@@ -23,6 +23,10 @@
             <image:title>Blue Raspberry Freeze</image:title>
         </image:image>
         <image:image>
+            <image:loc>https://www.tacobelldrinkmenu.site/assets/images/pineapple-freeze.jpg</image:loc>
+            <image:title>Pineapple Freeze</image:title>
+        </image:image>
+        <image:image>
             <image:loc>https://www.tacobelldrinkmenu.site/assets/images/strawberry-refresca.jpg</image:loc>
             <image:title>Strawberry Passionfruit Agua Refresca</image:title>
         </image:image>
@@ -32,7 +36,15 @@
         </image:image>
         <image:image>
             <image:loc>https://www.tacobelldrinkmenu.site/assets/images/pineapple-lime-refresca.jpg</image:loc>
-            <image:title>Pineapple Lime Energy Refresca</image:title>
+            <image:title>Pineapple Citrus Energy</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tacobelldrinkmenu.site/assets/images/dragonfruit-berry-refresca.jpg</image:loc>
+            <image:title>Dragonfruit Berry Agua Refresca</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.tacobelldrinkmenu.site/assets/images/strawberry-tropics-energy.jpg</image:loc>
+            <image:title>Strawberry Tropics Energy</image:title>
         </image:image>
         <image:image>
             <image:loc>https://www.tacobelldrinkmenu.site/assets/images/lemonade-drink.jpg</image:loc>

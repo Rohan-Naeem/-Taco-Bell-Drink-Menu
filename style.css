@@ -1018,6 +1018,10 @@ button {
     background: #2583ca;
 }
 
+.freeze-yellow {
+    background: #f2b705;
+}
+
 .freeze-body {
     padding: 24px;
 }
