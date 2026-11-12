@@ -5,8 +5,12 @@
 ## Site
 
 - Home: https://www.tacobelldrinkmenu.site/
-- Title: Taco Bell Drink Menu 2026 | Prices, Calories & Freezes
-- Description: Taco Bell drink menu 2026: Baja Blast, Freezes, fountain drinks and coffee, with calories and typical prices by size. Full US list before you order.
+- Title: Taco Bell Drink Menu 2026 | Prices from $2.69, Baja Blast
+- Description: Taco Bell drinks menu for 2026 with prices: fountain drinks from $2.69, Freezes from $3.89, Baja Blast, coffee and calories by size.
+- About: https://www.tacobelldrinkmenu.site/about.html
+- Contact: https://www.tacobelldrinkmenu.site/contact.html
+- Privacy Policy: https://www.tacobelldrinkmenu.site/privacy.html
+- Disclaimer: https://www.tacobelldrinkmenu.site/disclaimer.html
 
 ## What this site covers
 
@@ -16,11 +20,11 @@
 - Coffee: Premium Hot Coffee, Hot Cinnabon Delights Coffee, Regular Iced Coffee, Iced Cinnabon Delights Coffee
 - Calories, typical prices, deals, locations and FAQ
 
-## Typical US prices (checked November 2026)
+## Typical US prices (Taco Bell official online menu, checked 7 November 2026)
 
-- Fountain drinks: typically $1.79-$2.24, depending on size and location
-- Freezes: typically $1.99-$2.59, depending on size and location
-- Lemonade: typically $1.69-$2.19, depending on location
+- Fountain drinks: Small $2.69 / Medium $2.99 / Large $3.19
+- Freezes: Regular $3.89 / Large $4.39
+- Lemonade: Large $3.19
 
 Taco Bell does not publish one national price. Prices, calories, availability and promotions vary by restaurant, size, season and delivery/app ordering. Always check your selected Taco Bell location for the current price before ordering.
 
