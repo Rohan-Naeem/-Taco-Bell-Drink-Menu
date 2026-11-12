@@ -2477,6 +2477,13 @@ button {
     letter-spacing: -0.045em;
 }
 
+/* Search only works on the home page (drink cards live there),
+   so hide the search button on sub-pages instead of showing
+   a "No drinks found" dead end. */
+.subpage .search-toggle {
+    display: none;
+}
+
 .page-content p {
     margin-bottom: 18px;
     color: var(--dark);
@@ -2502,4 +2509,41 @@ button {
 .page-content a {
     color: var(--purple);
     text-decoration: underline;
+}
+
+/* =========================================================
+   DESIGN + UX FIXES — 12 Nov 2026 audit
+   ========================================================= */
+
+/* Hero: keep the disclaimer line clear of the overlapping
+   quick-info cards below it. */
+.hero {
+    padding-bottom: 55px;
+}
+
+/* Anchor jumps: keep section headings clear of the sticky header. */
+section[id] {
+    scroll-margin-top: 100px;
+}
+
+/* Drink cards: equal heights, "View Drink" links aligned at the bottom. */
+.drink-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.drink-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.drink-content .card-link {
+    margin-top: auto;
+    padding-top: 14px;
+}
+
+/* Baja photo: let the image set the height — no empty purple bands. */
+.featured-visual {
+    min-height: 0;
 }

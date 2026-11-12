@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     const filterButtons = document.querySelectorAll(".filter-btn");
-    const drinkCards = document.querySelectorAll(".drink-card");
+    const drinkCards = document.querySelectorAll(".drink-card, .freeze-card, .refresh-card");
 
     filterButtons.forEach(function (button) {
         button.addEventListener("click", function () {
@@ -79,6 +79,26 @@ document.addEventListener("DOMContentLoaded", function () {
             button.classList.add("active");
 
             const filter = button.getAttribute("data-filter");
+
+            const sectionTargets = {
+                freeze: "freezes",
+                refreshers: "refreshers",
+                coffee: "coffee"
+            };
+
+            if (sectionTargets[filter]) {
+                const section = document.getElementById(sectionTargets[filter]);
+
+                drinkCards.forEach(function (card) {
+                    card.classList.remove("hidden");
+                });
+
+                if (section) {
+                    section.scrollIntoView({ behavior: "smooth" });
+                }
+
+                return;
+            }
 
             drinkCards.forEach(function (card) {
                 const category = card.getAttribute("data-category");
@@ -131,8 +151,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 return;
             }
 
+            window.open("https://www.tacobell.com/locations", "_blank", "noopener");
+
             locationMessage.textContent =
-                "Location search is coming soon. Please check your local Taco Bell restaurant for current drink availability.";
+                "Opening Taco Bell's official location finder in a new tab — enter your ZIP or city there to see the menu at your nearest restaurant.";
         });
 
         locationInput.addEventListener("keydown", function (event) {
