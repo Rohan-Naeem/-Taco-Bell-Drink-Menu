@@ -1,1 +1,1 @@
-{"redirects":[{"destination":"https://www.tacobelldrinkmenu.site/:path*","has":[{"type":"host","value":"taco-bell-drink-menu.vercel.app"}],"permanent":true,"source":"/:path*"}]}
+{"redirects":[{"destination":"https://www.tacobelldrinkmenu.site/","has":[{"type":"host","value":"taco-bell-drink-menu.vercel.app"}],"permanent":true,"source":"/"},{"destination":"https://www.tacobelldrinkmenu.site/:path*","has":[{"type":"host","value":"taco-bell-drink-menu.vercel.app"}],"permanent":true,"source":"/:path*"}]}
