@@ -4,7 +4,7 @@
 
 ## Site
 
-- Home: https://taco-bell-drink-menu.vercel.app/
+- Home: https://www.tacobelldrinkmenu.site/
 - Title: Taco Bell Drink Menu 2026 | Prices, Calories & Freezes
 - Description: Taco Bell drink menu 2026: Baja Blast, Freezes, fountain drinks and coffee, with calories and typical prices by size. Full US list before you order.
 

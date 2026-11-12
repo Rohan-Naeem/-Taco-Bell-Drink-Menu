@@ -1,4 +1,4 @@
 User-agent: *
+Allow: /
 
-
-Sitemap: https://taco-bell-drink-menu.vercel.app/sitemap.xml
+Sitemap: https://www.tacobelldrinkmenu.site/sitemap.xml
