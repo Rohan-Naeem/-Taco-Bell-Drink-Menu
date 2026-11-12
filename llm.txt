@@ -17,9 +17,9 @@
 
 ## What this site covers
 
-- Fountain drinks: MTN DEW Baja Blast, Diet Pepsi, Pepsi, MTN DEW Zero, Baja Blast Zero Sugar, Dr Pepper, Starry
-- Freezes: MTN DEW Baja Blast Freeze, Wild Strawberry Freeze, Blue Raspberry Freeze
-- Refreshers: Strawberry Passionfruit Agua Refresca, Mango Peach Agua Refresca, Pineapple Lime Rockstar Energy Refresca
+- Fountain drinks: MTN DEW Baja Blast, Baja Midnight, Diet Pepsi, Pepsi, Pepsi Zero Sugar, Cherry Pepsi, MTN DEW, MTN DEW Zero, Baja Blast Zero Sugar, Starry, Mug Root Beer, G2 Gatorade Fruit Punch, Tropicana Original Lemonade, Brisk Mango Fiesta, Lipton Unsweetened Iced Tea (Dr Pepper is not listed on the current official menu)
+- Freezes: MTN DEW Baja Blast Freeze, Wild Strawberry Freeze, Pineapple Freeze (limited time), Pineapple Dragonfruit Dream Refresca Freeze, Baja Blast dirty soda Freeze (Blue Raspberry Freeze is not on the current official menu)
+- Refreshers: Strawberry Passionfruit Agua Refresca, Mango Peach Agua Refresca, Dragonfruit Berry Agua Refresca, Pineapple Citrus Energy, Strawberry Tropics Energy
 - Coffee: Premium Hot Coffee, Hot Cinnabon Delights Coffee, Regular Iced Coffee, Iced Cinnabon Delights Coffee
 - Calories, typical prices, deals, locations and FAQ
 
@@ -28,14 +28,18 @@
 - Fountain drinks: Small $2.69 / Medium $2.99 / Large $3.19
 - Freezes: Regular $3.89 / Large $4.39
 - Lemonade: Large $3.19
+- Coffee: Regular only, $2.19–$2.89
+- Agua Refresca: Medium only, $3.89
+- Dream Refresca: Medium only, $4.19
+- Energy drinks: Medium only, $4.49
 
 Taco Bell does not publish one national price. Prices, calories, availability and promotions vary by restaurant, size, season and delivery/app ordering. Always check your selected Taco Bell location for the current price before ordering.
 
 ## Key facts
 
 - MTN DEW Baja Blast: 420 Cal (fountain, large size as listed on the site)
-- Baja Blast Freeze: 190 Cal
-- Wild Strawberry Freeze: 190 Cal
+- Baja Blast Freeze: 190 Cal (Large)
+- Wild Strawberry Freeze: 190 Cal (Large)
 - Diet Pepsi: 0 Cal
 - Baja Blast Zero Sugar: 15 Cal
 
